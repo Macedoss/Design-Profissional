@@ -13,3 +13,5 @@ Data da Mesa-redonda: 25/08/2025
 Local: Brasília, DF
 
 Objetivo: Aplicar os novos conhecimentos sobre IA na educação em projetos futuros.
+
+Link do meu Curriculo Lattes: http://lattes.cnpq.br/1502774214440128
